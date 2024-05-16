@@ -32,7 +32,14 @@ There are 2 tabs on this page. The main (first) one contains the music that the 
 There are 2 tabs on this page. The main (first) one contains playlists that the user has added to himself; this feature is present for each playlist (adding from this list). In the second tab there is a playlist created by the user himself, in this case you can choose whether it is private or not.<br><br>
 	These are the main pages that the user can go to; when entering a playlist, you can turn on any song from it, add it to yourself, or add any song from this playlist. The playlist takes up the entire space of the main space. The transition history is also saved, so you can go back to the page before the playlist.<br>
  	It is possible to go to your profile; it consists of a username, avatar, and background. At the bottom of the profile, playlists created by the user are displayed, if they are public, and the music they have added. The user himself can set up privacy and nothing will be displayed except his name, avatar and background. All of the above can be changed.<br>
+  
 <h3>Technical solution of the project:</h3>
- The entire project will be created with NextJs, the design will be created in Figma, a database to store all the information is MongoDb. User data is saved in a separate database folder. When you log in or register, information is saved in a cache for 14 days. The cache is used for verification; if the user does not have this cache, then they need to log in again.
+ The entire project will be created with NextJs(frontend React, backend node), the design will be created in Figma, a database to store all the information is MongoDb. User data is saved in a separate database folder. When you log in or register, information is saved in a cache for 14 days. The cache is used for verification; if the user does not have this cache, then they need to log in again.
 	
 Link to design in Figma: https://www.figma.com/design/hTtGvwZg9uEsUDVH0bcOk5/Alto?m=dev&node-id=1%3A2&t=JlTTIZoHfEZdi9nt-1
+	<h3>The design explanation: <br></h3>
+<p> 
+	Design contains all the possible ways to use the site; <br>
+	On the link you can find a UI KIT, layout for desktop(1920), laptop(1320), pad(769), mobile(420); <br>
+	At the time design can be changed, depends of your wishes, just say about it; <br>
+</p>
