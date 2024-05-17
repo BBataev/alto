@@ -42,4 +42,5 @@ Link to design in Figma: https://www.figma.com/design/hTtGvwZg9uEsUDVH0bcOk5/Alt
 	Design contains all the possible ways to use the site; <br>
 	On the link you can find a UI KIT, layout for desktop(1920), laptop(1320), pad(769), mobile(420); <br>
 	At the time design can be changed, depends of your wishes, just say about it; <br>
+	In the layout creating should be known that all heights measured not in pixels but vh and vw; <br>
 </p>
