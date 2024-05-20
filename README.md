@@ -45,5 +45,5 @@ Link to design in Figma: https://www.figma.com/design/hTtGvwZg9uEsUDVH0bcOk5/Alt
 	In the layout creating should be known that all heights measured not in pixels but vh and vw; <br>
 </p>
 
-<h5>Design at the moment</h5>
+Design at the moment
 ![desktop (1920x1080)](https://github.com/BBataev/alto/assets/139882886/dc0bd702-cf86-41a9-8720-4028162e22e3)
