@@ -46,12 +46,14 @@ Link to design in Figma: https://www.figma.com/design/hTtGvwZg9uEsUDVH0bcOk5/Alt
 </p>
 
 Design at the moment
-![desktop (1920x1080)](https://github.com/BBataev/alto/assets/139882886/8c50b310-3fdb-4365-93d2-b91f71135c35)
+![desktop (1920x1080)](https://github.com/BBataev/alto/assets/139882886/58e7bec8-6b0b-4729-9bee-11018481cd63)
+
 
 
 
 
 
 UI KIT
-![UI KIT](https://github.com/BBataev/alto/assets/139882886/040d1b0c-5d63-4ce4-80c8-5ffd15bb5311)
+![UI KIT](https://github.com/BBataev/alto/assets/139882886/61360f04-6bbe-4602-8785-eb25a2a13ff7)
+
 
