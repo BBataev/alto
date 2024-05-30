@@ -46,7 +46,7 @@ Link to design in Figma: https://www.figma.com/design/hTtGvwZg9uEsUDVH0bcOk5/Alt
 </p>
 
 Design at the moment
-![desktop (1920x1080)](https://github.com/BBataev/alto/assets/139882886/ff4c1f28-d711-42ce-93e2-c4e278e74c34)
+![desktop (1920x1080)](https://github.com/BBataev/alto/assets/139882886/8408601a-19ea-4249-8ef4-44ced5a7f93f)
 
 
 
